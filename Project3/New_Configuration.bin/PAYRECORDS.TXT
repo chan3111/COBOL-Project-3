@@ -1,0 +1,27 @@
+         PAYROLL REGISTER          WED 22 MAR 17
+
+     NAME                       GROSS        TAX   PENSION    HEALTH   NET
+
+  JR     SMITH                 640.00      64.00      6.40     32.00   537.60  PM     JONES                 642.08      77.04     12.84     64.20   488.00
+  RP     JONES                 561.82      89.89     16.85     28.09   426.99
+  FR     HEINLEIN              702.00     140.40     28.08     70.20   463.32
+  RP     HEINLEIN              723.45      72.34      7.23     36.17   607.71
+  AC     CLARKE                516.70      62.00     10.33     51.67   392.70
+  RP     CLARKE                638.40     102.14     19.15     31.92   485.19
+  FR     HERBERT               664.00     132.80     26.56     66.40   438.24
+  AR     ASSIMOV               720.00      72.00     72.00     36.00   540.00
+  JR     TOLKEIN               755.91      90.70      7.55     75.59   582.07
+     NAME                       GROSS        TAX   PENSION    HEALTH   NET
+
+  SP     ROBINSON              518.00      82.88     10.36     25.90   398.86  P      ROBSON                719.82     143.96     21.59     71.98   482.29
+  S      ROGERS                540.00      54.00     21.60     27.00   437.40
+  G      ROGERS                556.50      66.78     55.65     55.65   378.42
+         PAYROLL SUMMARY          WED 22 MAR 17
+
+      TOTAL GROSS        $8,898.68      TOTAL NET          $6,658.79
+      TOTAL TAX          $1,250.93
+      TOTAL PENSION        $316.19
+      TOTAL HEALTH         $672.77
+
+
+      RECORDS READ      14      RECORDS WRITTEN   14
